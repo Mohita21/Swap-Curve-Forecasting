@@ -11,3 +11,11 @@ Interest rate swaps became an essential tool for many types of investors, as wel
 ## Question:
 Since Swap curve plays important roles in bank’s treasury, it is very important to have a good prediction of it. A dataset consists of Swap rates at daily frequency for time period of 1995-07-14 to 2021-02-28. Different time maturities were laid in the dataset. Below is a snapshot of dataset. Maturities ranged from 1,2,3,6,9 months to 1,2,3,4,5,6,7,8,9,10 years. Every row denotes a swap curve spread across given maturities.  Predict Swap Curve for March 19th, 2021 across given set of maturities. 
 
+
+# This work propose two methods to forecast Swap Curve:
+- 1. Statistical Method
+- 2. Autoencoder
+
+It is recommended to first go through the statistical method followed by autoencoders.
+
+It is found that statistical method performs better than the autoencoder.
