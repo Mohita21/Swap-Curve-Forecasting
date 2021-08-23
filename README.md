@@ -18,4 +18,6 @@ Since Swap curve plays important roles in bank’s treasury, it is very importan
 
 It is recommended to first go through the statistical method followed by autoencoders.
 
-It is found that statistical method performs better than the autoencoder.
+It is found that statistical method performs better than the autoencoder. The notebook with statistical method has the granular approach with which each time series should be dealt and notebook with autoencoders has the conclusion of statistical vs autoencoder method.
+
+
